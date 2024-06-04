@@ -28,5 +28,5 @@ jobs:
           publish_dir: ./build/web
           keep_files: true
           allow_empty_commit: false
-          force_orphan: true
+          force_orphan: false
           publish_branch: gh-pages  # Deploy to gh-pages branch
