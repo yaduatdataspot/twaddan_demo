@@ -29,4 +29,4 @@ jobs:
           keep_files: true
           allow_empty_commit: false
           force_orphan: true
-          branch: gh-pages  # Deploy to gh-pages branch
+          publish_branch: gh-pages  # Deploy to gh-pages branch
