@@ -23,7 +23,7 @@ jobs:
         node-version: 20
     
     - name: Install Flutter
-      uses: subosito/flutter-action@v3
+      uses: subosito/flutter-action@v2
       with:
         flutter-version: '2.0.5'
     
