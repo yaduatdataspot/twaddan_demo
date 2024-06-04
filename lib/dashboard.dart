@@ -855,11 +855,11 @@ class _DashBoardState extends State<DashBoard> {
                                                   Expanded(
                                                       flex: 1,
                                                       child: Container(
-                                                          // child: SelectableText(
-                                                          //    'Hello! How are you?',
-                                                          //    textAlign: TextAlign.center,
-                                                          //    style: TextStyle(fontWeight: FontWeight.bold),
-                                                          //  )
+                                                          child: SelectableText(
+                                                             'Hello! How are you?',
+                                                             textAlign: TextAlign.center,
+                                                             style: TextStyle(fontWeight: FontWeight.bold),
+                                                           )
                                                           )),
                                                   Expanded(
                                                     flex: 1,
