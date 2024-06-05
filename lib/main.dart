@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:twaddan_demo/table.dart';
 
 import 'bidirection_scroll.dart';
-import 'dashboard.dart';
+import 'presentation/dashboard/ui/dashboard.dart';
 import 'my_data_tbale.dart';
 import 'newTable.dart';
 import 'overlayExample.dart';

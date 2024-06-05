@@ -4,8 +4,8 @@ import 'package:data_table_2/data_table_2.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_web_pagination/flutter_web_pagination.dart';
 
-import 'CustomDataTable.dart';
-import 'my_data_tbale.dart';
+import '../../../CustomDataTable.dart';
+import '../../../my_data_tbale.dart';
 
 class DashBoard extends StatefulWidget {
   const DashBoard({super.key});
